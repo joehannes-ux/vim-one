@@ -4,6 +4,8 @@ Added a green tint to the bg-color - again of the light theme only.
 
 I considered this the nicest theme for my daylight coding uses, but wanted the colors to be more vibrant.
 
+![Light Theme tweaked](screenshots/screenie_light_theme.jpg)
+
 ![Logo][logo]
 
 Light and dark vim colorscheme, shamelessly stolen from atom (another
