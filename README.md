@@ -1,3 +1,9 @@
+A fork of rakr/vim-one.
+Basically ran the light theme colors through a saturation intensification of 50%.
+Added a green tint to the bg-color - again of the light theme only.
+
+I considered this the nicest theme for my daylight coding uses, but wanted the colors to be more vibrant.
+
 ![Logo][logo]
 
 Light and dark vim colorscheme, shamelessly stolen from atom (another
